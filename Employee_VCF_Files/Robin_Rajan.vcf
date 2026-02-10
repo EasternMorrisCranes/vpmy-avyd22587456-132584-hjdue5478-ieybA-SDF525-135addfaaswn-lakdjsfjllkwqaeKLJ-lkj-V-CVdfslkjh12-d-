@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rajan;Robin;;;
+FN:Robin Rajan
+ORG:Eastern Morris Cranes Co. Ltd.;Administraction & HR
+TITLE:Admin Coordinator
+TEL;TYPE=CELL,VOICE:+966 531358778
+TEL;TYPE=WORK,VOICE:+966 13 892 5887
+EMAIL;TYPE=INTERNET,WORK:robin.rajan@emc.com.sa
+URL;TYPE=WORK:www.emc.com.sa
+ADR;TYPE=WORK:;;15th street,  1st Industrial City;Dammam;Eastern Province;32234;Saudi Arabia
+REV:20260210T182810Z
+END:VCARD

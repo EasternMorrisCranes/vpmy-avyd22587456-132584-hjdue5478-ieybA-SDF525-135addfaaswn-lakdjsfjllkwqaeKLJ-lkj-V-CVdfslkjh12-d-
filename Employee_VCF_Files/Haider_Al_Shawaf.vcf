@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Al Shawaf;Haider;;;
+FN:Haider Al Shawaf
+ORG:Eastern Morris Cranes Co. Ltd.;Technical & Engineering Department
+TITLE:Mechanical Engineer
+TEL;TYPE=CELL,VOICE:+966 554608288
+TEL;TYPE=WORK,VOICE:+966 13 892 5894
+EMAIL;TYPE=INTERNET,WORK:haider.alshawaf@emc.com.sa
+URL;TYPE=WORK:www.emc.com.sa
+ADR;TYPE=WORK:;;15th street,  1st Industrial City;Dammam;Eastern Province;32234;Saudi Arabia
+REV:20260210T182825Z
+END:VCARD

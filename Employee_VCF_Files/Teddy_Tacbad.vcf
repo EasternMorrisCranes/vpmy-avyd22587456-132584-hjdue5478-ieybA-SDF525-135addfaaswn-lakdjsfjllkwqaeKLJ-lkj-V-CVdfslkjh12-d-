@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Tacbad;Teddy;;;
+FN:Teddy Tacbad
+ORG:Eastern Morris Cranes Co. Ltd.;Project Management Department
+TITLE:Project Manager
+TEL;TYPE=CELL,VOICE:+966 555679239
+TEL;TYPE=WORK,VOICE:+966 13 892 5872
+EMAIL;TYPE=INTERNET,WORK:teddy.tacbad@emc.com.sa
+URL;TYPE=WORK:www.emc.com.sa
+ADR;TYPE=WORK:;;15th street,  1st Industrial City;Dammam;Eastern Province;32234;Saudi Arabia
+REV:20260210T182819Z
+END:VCARD
