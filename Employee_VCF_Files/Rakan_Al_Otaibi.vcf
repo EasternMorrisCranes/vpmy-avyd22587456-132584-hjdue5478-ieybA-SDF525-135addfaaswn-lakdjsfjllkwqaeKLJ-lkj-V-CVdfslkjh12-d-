@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Al Otaibi;Rakan;;;
+FN:Rakan Al Otaibi
+ORG:Eastern Morris Cranes Co. Ltd.;Spare Parts Sales
+TITLE:Parts Sales
+TEL;TYPE=CELL,VOICE:+966 550888922
+TEL;TYPE=WORK,VOICE:
+EMAIL;TYPE=INTERNET,WORK:rakan.alotaibi@emc.com.sa
+URL;TYPE=WORK:www.emc.com.sa
+ADR;TYPE=WORK:;;15th street,  1st Industrial City;Dammam;Eastern Province;32234;Saudi Arabia
+REV:20260216T125434Z
+END:VCARD
